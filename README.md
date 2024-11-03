@@ -1,5 +1,5 @@
 # Scientific Writing in 2024 Fall Semester
-*Scientific Writing* is a course for graduate students to learn reading literature, prepare scientific figures and writing scientific manuscripts. It teaches fundamental skills in **scientific reading, presentation and writing**, which serves as the basis in future research life.
+*Scientific Writing* is a course for graduate students to learn presenting scientific results and writing scientific manuscripts. It teaches fundamental skills in **scientific reading, presentation and writing**, which serves as the basis in future research life.
 
 # Contents
 1. Introduction
